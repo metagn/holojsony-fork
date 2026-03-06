@@ -6,3 +6,4 @@ license     = "MIT"
 srcDir = "src"
 
 requires "nim >= 1.4.0"
+requires "https://github.com/metagn/hemodyne"

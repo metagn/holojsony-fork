@@ -1,7 +1,7 @@
-import json, holojsony, strutils, tables
+import std/json, holojsony, std/strutils, std/tables
 const doTimes = not defined(nimscript)
 when doTimes:
-  import times
+  import std/times
 
 type Fraction = object
   numerator: int

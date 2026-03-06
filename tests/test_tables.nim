@@ -1,4 +1,4 @@
-import holojsony, tables
+import holojsony, std/tables
 
 block:
 

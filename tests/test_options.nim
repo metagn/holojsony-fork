@@ -1,4 +1,4 @@
-import holojsony, options
+import holojsony, std/options
 
 var
   a: Option[int] = some(123)

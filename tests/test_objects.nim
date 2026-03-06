@@ -1,4 +1,4 @@
-import holojsony, strutils
+import holojsony, std/strutils
 
 block:
   type Entry1 = object

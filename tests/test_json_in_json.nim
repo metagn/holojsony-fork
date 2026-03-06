@@ -1,4 +1,4 @@
-import json, holojsony
+import std/json, holojsony
 
 block:
   type Entry = object

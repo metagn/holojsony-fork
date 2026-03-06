@@ -1,4 +1,4 @@
-import holojsony, sets
+import holojsony, std/sets
 
 block:
   let
